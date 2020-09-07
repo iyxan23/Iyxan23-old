@@ -12,7 +12,7 @@
 <br/>
 <br/>
 
-Hi, I'm Iyxan23, a 13 year old self-taught programmer.
+Hi, I'm Iyxan23, a 13 year old self-taught coder.
   
  
   
