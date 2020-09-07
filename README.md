@@ -14,8 +14,6 @@
 <br/>
 
 Hi, I'm Iyxan23, a 13 year old self-taught programmer.
-
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
 **Talking about Personal Stuffs:**
 
