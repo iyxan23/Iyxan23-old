@@ -19,9 +19,9 @@ Hi, I'm Iyxan23, a 13 year old self-taught programmer.
 **Talking about Personal Stuffs:**
 
 - I’m currently working on [os-thm](https://github.com/ThatCakeID/os-thm-android)
-- 🌱 I’m currently learning Flutter 
-- 👯 I’m one of the member in [ThatCakeID](https://github.com/ThatCakeID)
-- 📫 My email: nurihsanalghifari@gmail.com
+- I’m currently learning Flutter 
+- I’m one of the member in [ThatCakeID](https://github.com/ThatCakeID)
+- My email: nurihsanalghifari@gmail.com
 
 **Languages and Tools:**  
 
