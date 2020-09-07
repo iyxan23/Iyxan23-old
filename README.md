@@ -21,7 +21,7 @@ Hi, I'm Iyxan23, a 13 years old self-taught coder.
 - I’m currently working on [os-thm](https://github.com/ThatCakeID/os-thm-android)
 - I’m currently learning Backend with Python (Django, Flask)
 - I’m one of the member in [ThatCakeID](https://github.com/ThatCakeID)
-- I, dont have any jobs, well, thats why im 13 years old
+- I dont have any jobs, well, that's why I'm 13 years old
 - My email: nurihsanalghifari@gmail.com
 
 **Languages and Tools:**  
