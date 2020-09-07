@@ -15,6 +15,8 @@
 
 Hi, I'm Iyxan23, a 13 year old self-taught programmer.
   
+  <img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"/>
+  
 **Talking about Personal Stuffs:**
 
 - I’m currently working on [os-thm](https://github.com/ThatCakeID/os-thm-android)
