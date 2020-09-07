@@ -1,13 +1,12 @@
 ### Hello :wave:, I'm Iyxan23!
 
+<img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"/>
+
 <a href="https://twitter.com/Iyxan23">
   <img align="left" alt="Iyxan23 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://t.me/abhisheknaiidu">
-  <img align="left" alt="Abhishek's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
 <a href="https://www.instagram.com/ihsan_t3ch/">
-  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Iyxan23's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
 <br/>
@@ -15,7 +14,7 @@
 
 Hi, I'm Iyxan23, a 13 year old self-taught programmer.
   
-  <img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"/>
+ 
   
 **Talking about Personal Stuffs:**
 
