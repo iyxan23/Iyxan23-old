@@ -22,6 +22,7 @@ Hi, I'm Iyxan23, a 13 years old self-taught coder.
 - I’m currently learning Backend with Python (Django, Flask)
 - I’m one of the member in [ThatCakeID](https://github.com/ThatCakeID)
 - I dont have any jobs, well, that's why I'm 13 years old
+- My country is Indonesia :indonesia:
 - My email: nurihsanalghifari@gmail.com
 
 **My Skills:** (Ranked from best) 
