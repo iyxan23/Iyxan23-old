@@ -24,14 +24,24 @@ Hi, I'm Iyxan23, a 13 years old self-taught coder.
 - I dont have any jobs, well, that's why I'm 13 years old
 - My email: nurihsanalghifari@gmail.com
 
-**Languages and Tools:**  
+**My Skills:** (Ranked from best) 
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+- Java/XML (Android)
+- Python 3
+- HTML/CSS/Javascript
+- C
+- Dart
+
+**Tools i use:**  
+
+- Git
+- Android Studio
+- Firebase
+- PyCharm
+- Visual Studio Code
+- nvim
+- Code::Blocks
+- gcc
 
 ![Iyxan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iyxan23&show_icons=true&hide_border=true)
 
