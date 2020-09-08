@@ -32,7 +32,7 @@ Hi, I'm Iyxan23, a 13 years old self-taught coder.
 - C
 - Dart
 
-**Tools i use:**  
+**Tools I Use:**  
 
 - Git
 - Android Studio
