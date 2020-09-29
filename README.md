@@ -13,6 +13,7 @@
 <br/>
 
 Hi, I'm Iyxan23, a 13 years old self-taught coder.
+Or you might find me as **NurIhsan** in real life.
   
  
   
@@ -21,7 +22,6 @@ Hi, I'm Iyxan23, a 13 years old self-taught coder.
 - I’m currently working on [os-thm](https://github.com/ThatCakeID/os-thm-android)
 - I’m currently learning Backend with Python (Django, Flask)
 - I’m one of the member in [ThatCakeID](https://github.com/ThatCakeID)
-- I dont have any jobs, well, that's why I'm 13 years old
 - My country is Indonesia :indonesia:
 - My email: nurihsanalghifari@gmail.com
 
