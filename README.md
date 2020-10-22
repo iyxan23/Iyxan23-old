@@ -40,9 +40,8 @@ Or you might find me as **NurIhsan** in real life.
 - Firebase
 - PyCharm
 - Visual Studio Code
-- nvim
 - Code::Blocks
-- gcc
+- And more
 
 ![Iyxan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iyxan23&show_icons=true&hide_border=true)
 
