@@ -19,7 +19,7 @@ Or you might find me as **NurIhsan** in real life.
   
 **Talking about Personal Stuffs:**
 
-- I’m currently working on [os-thm](https://github.com/ThatCakeID/os-thm-android)
+- I’m currently working on _nothing, i have online school_
 - I’m currently learning PHP and MySQL
 - I’m one of the member in [ThatCakeID](https://github.com/ThatCakeID)
 - My country is Indonesia :indonesia:
