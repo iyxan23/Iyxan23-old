@@ -25,12 +25,12 @@ Or you might find me as **NurIhsan** in real life.
 - My country is Indonesia :indonesia:
 - My email: nurihsanalghifari@gmail.com
 
-**My Skills:** (Ranked from best) 
+**My Skills:** (Ranked from experiences) 
 
 - Java/XML (Android)
-- Python 3
+- Python3
 - HTML/CSS/Javascript
-- C
+- C/C++
 - Dart
 
 **Tools I Use:**  
