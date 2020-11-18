@@ -20,7 +20,7 @@ Or you might find me as **NurIhsan** in real life.
 **Talking about Personal Stuffs:**
 
 - I’m currently working on _nothing, i have online school_
-- I’m currently learning PHP and MySQL
+- I’m currently learning on how to make my own CPU Emulator
 - I’m one of the member in [ThatCakeID](https://github.com/ThatCakeID)
 - My country is Indonesia :indonesia:
 - My email: nurihsanalghifari@gmail.com
