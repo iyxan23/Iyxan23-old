@@ -24,6 +24,7 @@ Or you might find me as **NurIhsan** in real life.
 - I’m one of the member in [ThatCakeID](https://github.com/ThatCakeID)
 - My country is Indonesia :indonesia:
 - My email: nurihsanalghifari@gmail.com
+- My goal is to know how an operating system works
 
 **My Skills:** (Ranked from experiences) 
 
