@@ -50,6 +50,8 @@ Or you might find me as **NurIhsan** in real life.
 
 ![Iyxan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iyxan23&show_icons=true&hide_border=true&theme=dark)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iyxan23&layout=compact&theme=dark)
+
 <a href="https://github.com/ThatCakeID/os-thm-android">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ThatCakeID&repo=os-thm-android&theme=dark" />
 </a>
