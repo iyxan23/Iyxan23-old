@@ -48,12 +48,12 @@ Or you might find me as **NurIhsan** in real life.
 - ~Arch Linux~ really who put this here
 - And more
 
-![Iyxan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iyxan23&show_icons=true&hide_border=true&theme=onedark)
+![Iyxan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iyxan23&show_icons=true&hide_border=true&theme=dark)
 
 <a href="https://github.com/ThatCakeID/os-thm-android">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ThatCakeID&repo=os-thm-android&theme=onedark" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ThatCakeID&repo=os-thm-android&theme=dark" />
 </a>
 
 <a href="https://github.com/Iyxan23/sk-collab">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Iyxan23&repo=sk-collab&theme=onedark" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Iyxan23&repo=sk-collab&theme=dark" />
 </a>
