@@ -19,12 +19,13 @@ Or you might find me as **NurIhsan** in real life.
   
 **Talking about Personal Stuffs:**
 
-- I’m currently working on _nothing, i have online school_
-- I’m currently learning The Linux Kernel
+- I’m currently working on [SketchCollab](https://github.com/Iyxan23/sk-collab), and [ZryteZene](https://zrytezene.xyz).
+- I’m currently learning a lot of GNU/Linux stuff.
 - I’m one of the member in [ThatCakeID](https://github.com/ThatCakeID)
 - My country is Indonesia :indonesia:
 - My email: nurihsanalghifari@gmail.com
-- My goal is to know how an operating system works
+- My goal is to understand every parts of a fully functional system.
+- ~btw i use arch~ who put this here
 
 **My Skills:** (Ranked from experiences) 
 
@@ -44,6 +45,7 @@ Or you might find me as **NurIhsan** in real life.
 - PyCharm
 - Visual Studio Code
 - Code::Blocks
+- ~Arch Linux~ really who put this here
 - And more
 
 ![Iyxan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iyxan23&show_icons=true&hide_border=true)
