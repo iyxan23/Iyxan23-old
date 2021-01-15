@@ -60,3 +60,14 @@ Or you might find me as **NurIhsan** in real life.
 <a href="https://github.com/Iyxan23/sk-collab">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Iyxan23&repo=sk-collab&theme=dark" />
 </a>
+
+<!-- Haha <br/> go brrr -->
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+## My Arch Linux Setup
+<img src="https://i.imgur.com/HVql9Cv.png" style="margin-top: 1rem;" />
