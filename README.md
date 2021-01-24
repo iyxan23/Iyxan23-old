@@ -19,10 +19,11 @@ Or you might find me as **NurIhsan** in real life.
   
 **Talking about Personal Stuffs:**
 
-- I’m currently working on [SketchCollab](https://github.com/Iyxan23/sk-collab), and [ZryteZene](https://zrytezene.xyz).
-- I’m currently learning a lot of GNU/Linux stuff.
+- I’m currently working on [SketchCollab](https://github.com/Iyxan23/sk-collab).
+- I’m currently learning osdev.
 - I’m one of the member in [ThatCakeID](https://github.com/ThatCakeID)
 - I'm one of the moderation team member (Admin) of [sketchub](https://sketchub.in)
+- I'm a GNU/Linux enthusiast.
 - My country is Indonesia :indonesia:
 - My email: nurihsanalghifari@gmail.com
 - My goal is to understand every parts of a fully functional system.
@@ -30,8 +31,8 @@ Or you might find me as **NurIhsan** in real life.
 
 **My Skills:** (Ranked from experiences) 
 
-- Java/XML (Android)
 - Python3
+- Java/XML (Android)
 - HTML/CSS/Javascript
 - C/C++
 - PHP/MySQL
