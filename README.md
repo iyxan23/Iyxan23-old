@@ -52,17 +52,9 @@ Or you might find me as **NurIhsan** in real life.
 
 ![Iyxan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iyxan23&show_icons=true&hide_border=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iyxan23&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iyxan23&layout=compact&hide_border=true&theme=dark)
 
-<a href="https://github.com/ThatCakeID/os-thm-android">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ThatCakeID&repo=os-thm-android&theme=dark" />
-</a>
-
-<a href="https://github.com/Iyxan23/sk-collab">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Iyxan23&repo=sk-collab&theme=dark" />
-</a>
-
-[![My Metrics](https://metrics.lecoq.io/Iyxan23?template=classic&tweets=1&tweets.limit=2&config.timezone=UTC&config.animated=true)](.)
+![My Metrics](https://metrics.lecoq.io/Iyxan23?template=classic&tweets=1&tweets.limit=2&config.timezone=UTC&config.animated=true)
 
 ## My Arch Linux Setup
 <img src="https://i.imgur.com/HVql9Cv.png" style="margin-top: 1rem;" />
