@@ -62,13 +62,7 @@ Or you might find me as **NurIhsan** in real life.
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Iyxan23&repo=sk-collab&theme=dark" />
 </a>
 
-<!-- Haha <br/> go brrr -->
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+[![My Metrics](https://metrics.lecoq.io/Iyxan23?template=classic&tweets=1&tweets.limit=2&config.timezone=UTC&config.animated=true)](.)
 
 ## My Arch Linux Setup
 <img src="https://i.imgur.com/HVql9Cv.png" style="margin-top: 1rem;" />
