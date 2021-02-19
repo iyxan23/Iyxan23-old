@@ -24,6 +24,7 @@ Or you might find me as **NurIhsan** in real life.
 - I’m one of the member in [ThatCakeID](https://github.com/ThatCakeID)
 - I'm one of the moderation team member (Admin) of [sketchub](https://sketchub.in)
 - I'm a GNU/Linux enthusiast.
+- I don't really like designing, my interest are writing backends and applications.
 - My country is Indonesia :indonesia:
 - My email: nurihsanalghifari@gmail.com
 - My goal is to understand every parts of a fully functional system.
