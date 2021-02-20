@@ -19,7 +19,7 @@ Or you might find me as **NurIhsan** in real life.
   
 **Talking about Personal Stuffs:**
 
-- I’m currently working on [SketchCollab](https://github.com/Iyxan23/sk-collab).
+- I’m currently working on [OpenBlocks](https://github.com/OpenBlocksTeam), an open source, modular, and hackable alternative of Sketchware.
 - I’m currently learning the Qt Framework.
 - I’m one of the member in [ThatCakeID](https://github.com/ThatCakeID)
 - I'm one of the moderation team member (Admin) of [sketchub](https://sketchub.in)
