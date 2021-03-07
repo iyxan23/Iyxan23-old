@@ -23,6 +23,7 @@ Or you might find me as **NurIhsan** in real life.
 - I’m currently learning the Qt Framework.
 - I’m one of the member in [ThatCakeID](https://github.com/ThatCakeID)
 - I'm one of the moderation team member (Admin) of [sketchub](https://sketchub.in)
+- I'm the Co-Founder of the [OpenBlocks](https://github.com/OpenBlocksTeam) Project.
 - I'm a GNU/Linux enthusiast.
 - I don't really like designing, my interest are writing backends and applications.
 - My country is Indonesia :indonesia:
