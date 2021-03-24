@@ -14,6 +14,8 @@
 
 Hi, I'm Iyxan23, a 13 years old self-taught coder.
 Or you might find me as **NurIhsan** in real life.
+
+<img src="https://komarev.com/ghpvc/?username=Iyxan23&style=flat-square" alt="Iyxan23" />
   
 ----------
   
